@@ -144,7 +144,7 @@ body::after {
             rgba(23, 58, 94, 0.88),
             rgba(23, 58, 94, 0.88)
         ),
-        url("images/celebrant.jpg");
+        url("celebrant.jpg");
 
     background-size: cover;
 
